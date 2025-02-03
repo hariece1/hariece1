@@ -12,9 +12,6 @@
 - **BitHack** – Event Platform (**Laravel**)  
 - **NextGen** – Streaming Platform (**Spring Boot, React, Eureka**)    
 
-## 🎖️ Achievements  
-🏆 **Top 5%** in **Programming in Java (NPTEL)**  
-🎯 **Semi-finalist** in Labyrinth at **Petrichor'23 (IIT Palakkad)**  
 
 ## 📫 Contact Me  
 📧 harivenkatesh.ec22@bitsathy.ac.in  
