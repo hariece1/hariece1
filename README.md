@@ -10,8 +10,7 @@
 ## 🛠️ Projects  
 - **OrganizeU** – Event Management Portal (**Spring Boot**)  
 - **BitHack** – Event Platform (**Laravel**)  
-- **NextGen** – Streaming Platform (**Spring Boot, React, Eureka**)  
-- **BIT-Forum** *(Ongoing)* – Discussion Platform (**Spring Boot, React**)  
+- **NextGen** – Streaming Platform (**Spring Boot, React, Eureka**)    
 
 ## 🎖️ Achievements  
 🏆 **Top 5%** in **Programming in Java (NPTEL)**  
