@@ -8,7 +8,7 @@
 - Love building **scalable applications & backend systems**.  
 
 ## 🛠️ Projects  
-- **OrganizeU** – Event Management Portal (**Spring Boot**)  
+- **OrganizeU** – Volunter Portal (**Spring Boot**)  
 - **BitHack** – Event Platform (**Laravel**)  
 - **NextGen** – Streaming Platform (**Spring Boot, React, Eureka**)    
 
