@@ -30,25 +30,14 @@
 
 - **OrganizeU** – *Event Management Portal*  
   `Spring Boot`, `Spring JPA`, `Thymeleaf`  
-  🧍 Solo project  
   🎯 Goal: Simplified event registration and real-time updates
 
 - **BitHack** – *Hackathon Platform*  
   `Laravel`, `Eloquent ORM`  
-  🧍 Solo project  
   📌 Designed dynamic pages and user registration workflows
 
-- **Uber-Ola Taxi Booking – Low Level Design**  
-  `Java`, `OOPs`, `Design Patterns`  
-  🏗️ Focus: Scalable architecture, fare calculation, booking & history modules
 
----
 
-<h3 align="left">🏆 Achievements & Certifications</h3>
-
-- 🥇 Top 5% in *Programming in Java* – **NPTEL (Elite Certificate)**  
-- 🏁 Semi-finalist – *Labyrinth: The MazeXplorer*, **Petrichor'23 – IIT Palakkad**  
-- 👨‍🏫 Volunteered in inter-college tech fests and internal hackathons
 
 ---
 
@@ -70,12 +59,7 @@
 
 ---
 
-<h3 align="left">💬 Soft Skills & Hobbies</h3>
 
-- 🧠 Strong in **Teamwork**, **Leadership**, **Time Management**, and **Decision Making**  
-- 🎵 Music, 🧳 Traveling, ⚽ Playing Sports
-
----
 
 <h3 align="left">📊 GitHub Stats</h3>
 
@@ -83,6 +67,4 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariece1&show_icons=true&locale=en&layout=compact" alt="hariece1" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hariece1&show_icons=true&locale=en" alt="hariece1" />
-</p>
+
